@@ -48,3 +48,10 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.custom__about_me {
+  background-color: #1c1a19;
+  background-image: url(./illustration-about\ me.svg);
+  background-position: right 30%;
+  background-repeat: no-repeat;
+}

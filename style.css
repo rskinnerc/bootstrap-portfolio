@@ -1,0 +1,12 @@
+.custom__navbar {
+  background-color: #3e3c3c;
+}
+
+.custom__headline {
+  height: 798px;
+  padding-top: 264px;
+  background-image: url(./illustration-header.svg);
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  background-color: #1c1a19;
+}

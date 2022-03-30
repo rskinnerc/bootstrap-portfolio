@@ -16,3 +16,22 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.custom__recent {
+  height: 448px;
+}
+
+.custom__recentrow {
+  height: 435px;
+}
+
+.custom__card1 {
+  background-image: url(./imgplaceholder.png);
+  background-repeat: no-repeat;
+  
+}
+
+.custom__card2 {
+  background-image: url(./placeholder.png);
+  background-repeat: no-repeat;
+}

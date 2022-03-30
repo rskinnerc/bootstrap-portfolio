@@ -10,3 +10,9 @@
   background-repeat: no-repeat;
   background-color: #1c1a19;
 }
+
+.custom__img_placeholder {
+  background-image: url(./img-placeholder.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}

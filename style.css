@@ -28,10 +28,23 @@
 .custom__card1 {
   background-image: url(./imgplaceholder.png);
   background-repeat: no-repeat;
-  
+  background-size: cover;
 }
 
 .custom__card2 {
   background-image: url(./placeholder.png);
   background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.custom__card3 {
+  background-image: url(./place.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.custom__card4 {
+  background-image: url(./dark.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }

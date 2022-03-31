@@ -1,0 +1,57 @@
+.custom__navbar {
+  background-color: #3e3c3c;
+}
+
+.custom__headline {
+  height: 798px;
+  padding-top: 264px;
+  background-image: url(./illustration-header.svg);
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  background-color: #1c1a19;
+}
+
+.custom__img_placeholder {
+  background-image: url(./img-placeholder.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.custom__recent {
+  height: 448px;
+}
+
+.custom__recentrow {
+  height: 435px;
+}
+
+.custom__card1 {
+  background-image: url(./imgplaceholder.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.custom__card2 {
+  background-image: url(./placeholder.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.custom__card3 {
+  background-image: url(./place.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.custom__card4 {
+  background-image: url(./dark.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.custom__about_me {
+  background-color: #1c1a19;
+  background-image: url(./illustration-about\ me.svg);
+  background-position: right 30%;
+  background-repeat: no-repeat;
+}
